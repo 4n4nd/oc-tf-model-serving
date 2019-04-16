@@ -44,7 +44,7 @@ objects:
         name: ${APPLICATION_NAME}:latest
     source:
       git:
-        uri: https://gitlab.cee.redhat.com/asanmukh/rh-summit-twitter-demo.git
+        uri: https://github.com/4n4nd/oc-tf-model-serving.git
       type: Git
     strategy:
       type: Docker
