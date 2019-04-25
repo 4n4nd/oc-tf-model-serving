@@ -37,7 +37,7 @@ objects:
     resources:
       limits:
         memory: 1Gi
-        cpu: "1"
+        cpu: "200m"
     output:
       to:
         kind: ImageStreamTag
